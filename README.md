@@ -13,4 +13,4 @@ Unfortunately given the big data nature of the project it was not possible to up
 
 We hope that you will appreciate our work, any feedback is welcome!
 
-Thank you
+Thank you :) 
